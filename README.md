@@ -18,5 +18,6 @@ Deep Learning Nanodegree from Udacity
 
 ### Projects
  - [Project 1: Predicting Bike-Sharing Patterns](./P1-Predicting-Bike-Sharing-Patterns/Your_first_neural_network.ipynb)
- - [Project 2: Dog's Breed Classification](./P2-Dog-Classification/dog_app.ipynb)
+ - [Project 2: Classifying Dog's Breed](./P2-Dog-Classification/dog_app.ipynb)
+ - [Project 3: Generating TV Script](./P3-Generating-TV-Script/dlnd_tv_script_generation.ipynb)
  
