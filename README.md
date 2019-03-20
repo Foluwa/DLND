@@ -15,6 +15,8 @@ Deep Learning Nanodegree from Udacity
 #### Part 4: Recurrent Neural Networks
  - Lecture 5: Embeddings & Word2Vec
     - [Skip Grams](./assignments/P4-RNN/L5-embeddings-word2vec/Skip_Grams_Exercise.ipynb)
+ - Lecture 8: Attention
+    - [Attetion Basics](./assignments/P4-RNN/L8-attention/Attention%20Basics.ipynb)
 
 ### Projects
  - [Project 1: Predicting Bike-Sharing Patterns](./P1-Predicting-Bike-Sharing-Patterns/Your_first_neural_network.ipynb)
