@@ -17,6 +17,9 @@ Deep Learning Nanodegree from Udacity
     - [Skip Grams](./assignments/P4-RNN/L5-embeddings-word2vec/Skip_Grams_Exercise.ipynb)
  - Lecture 8: Attention
     - [Attetion Basics](./assignments/P4-RNN/L8-attention/Attention%20Basics.ipynb)
+#### Part 5: Generative Adversarial Networks
+ - Lecture 1: Basic GAN
+    - [MNIST GAN](./assignments/P5-GAN/L1-generative-adversarial-networks/MNIST_GAN_Exercise.ipynb)
 
 ### Projects
  - [Project 1: Predicting Bike-Sharing Patterns](./P1-Predicting-Bike-Sharing-Patterns/Your_first_neural_network.ipynb)
