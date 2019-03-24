@@ -16,7 +16,7 @@ Deep Learning Nanodegree from Udacity
  - Lecture 5: Embeddings & Word2Vec
     - [Skip Grams](./assignments/P4-RNN/L5-embeddings-word2vec/Skip_Grams_Exercise.ipynb)
  - Lecture 8: Attention
-    - [Attetion Basics](./assignments/P4-RNN/L8-attention/Attention%20Basics.ipynb)
+    - [Attention Basics](./assignments/P4-RNN/L8-attention/Attention%20Basics.ipynb)
 #### Part 5: Generative Adversarial Networks
  - Lecture 1: Basic GAN
     - [MNIST GAN](./assignments/P5-GAN/L1-generative-adversarial-networks/MNIST_GAN_Exercise.ipynb)
