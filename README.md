@@ -20,9 +20,10 @@ Deep Learning Nanodegree from Udacity
 #### Part 5: Generative Adversarial Networks
  - Lecture 1: Basic GAN
     - [MNIST GAN](./assignments/P5-GAN/L1-generative-adversarial-networks/MNIST_GAN_Exercise.ipynb)
+ - Lecture 2: Deep Convolutional GANs
+    - [Batch Normalization](./assignments/P5-GAN/L2-deep-convolutional-gans/Batch_Normalization.ipynb)
 
 ### Projects
  - [Project 1: Predicting Bike-Sharing Patterns](./P1-Predicting-Bike-Sharing-Patterns/Your_first_neural_network.ipynb)
  - [Project 2: Classifying Dog's Breed](./P2-Dog-Classification/dog_app.ipynb)
  - [Project 3: Generating TV Script](./P3-Generating-TV-Script/dlnd_tv_script_generation.ipynb)
- 
