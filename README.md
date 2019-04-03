@@ -23,6 +23,8 @@ Deep Learning Nanodegree from Udacity
  - Lecture 2: Deep Convolutional GANs
     - [Batch Normalization](./assignments/P5-GAN/L2-deep-convolutional-gans/batch-norm/Batch_Normalization.ipynb)
     - [Generating Street View Home Number (SVHN)](./assignments/P5-GAN/L2-deep-convolutional-gans/dcgan-svhn/DCGAN_Exercise.ipynb)
+ - Lecture 4: CycleGAN
+    - [Summer to Winter Image Transformation](./assignments/P5-GAN/L4-implementing-a-cyclegan/CycleGAN_Exercise.ipynb)
 
 ### Projects
  - [Project 1: Predicting Bike-Sharing Patterns](./P1-Predicting-Bike-Sharing-Patterns/Your_first_neural_network.ipynb)
