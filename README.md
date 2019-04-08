@@ -25,7 +25,10 @@ Deep Learning Nanodegree from Udacity
     - [Generating Street View Home Number (SVHN)](./assignments/P5-GAN/L2-deep-convolutional-gans/dcgan-svhn/DCGAN_Exercise.ipynb)
  - Lecture 4: CycleGAN
     - [Summer to Winter Image Transformation](./assignments/P5-GAN/L4-implementing-a-cyclegan/CycleGAN_Exercise.ipynb)
-
+#### Part 6: Deploying Model
+ - Lecture 2: Building a Model using SageMaker
+    - [Predicting Boston Housing - XGBoost - Batch Transform - High Level](./assignments/P6-deploying-model/L2-building-a-model-using-sagemaker/Boston%20Housing%20-%20XGBoost%20(Batch%20Transform)%20-%20High%20Level.ipynb)
+ 
 ### Projects
  - [Project 1: Predicting Bike-Sharing Patterns](./P1-Predicting-Bike-Sharing-Patterns/Your_first_neural_network.ipynb)
  - [Project 2: Classifying Dog's Breed](./P2-Dog-Classification/dog_app.ipynb)
