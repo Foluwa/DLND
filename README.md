@@ -38,4 +38,4 @@ Deep Learning Nanodegree from Udacity
  - [Project 2: Classifying Dog's Breed](./P2-Dog-Classification/dog_app.ipynb)
  - [Project 4: Generating TV Script](./P4-Generating-TV-Script/dlnd_tv_script_generation.ipynb)
  - [Project 5: Generating Face](./P5-Generating-Face/dlnd_face_generation.ipynb)
- 
+ - [Project 7: Deploying Sentiment Analysis Model](./P7-Deploying-Sentiment-Analysis-Model/SageMaker%20Project.ipynb)
